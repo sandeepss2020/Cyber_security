@@ -1,0 +1,1 @@
+ac3 = AgglomerativeClustering(n_clusters = 3)
